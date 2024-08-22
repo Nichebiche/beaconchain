@@ -28,7 +28,7 @@
     "eslint-plugin-n": "^16.6.2",
     "eslint-plugin-promise": "^6.1.1",
     "eslint-plugin-vue": "^9.20.1",
-    "nuxt": "^3.9.3",
+    "nuxt": "^3.13.0",
     "nuxt-primevue": "^0.2.2",
     "postcss": "^8.4.33",
     "sass": "^1.70.0",
