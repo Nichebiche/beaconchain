@@ -1,0 +1,5 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {docker run -u $(id -u):$(id -g) --rm -v "$(pwd)/:/opt/charon" obolnetwork/charon:v1.1.1 create cluster --definition-file="https://api.obol.tech/v1/definition/0xbac3a17973c92ccad9bac48cd282104b2588e8ba2657d27448b8ae71e5a84d8b" --network=mainnet --cluster-dir="cluster" --publish
+  }
+}
